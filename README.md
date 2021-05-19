@@ -1,6 +1,6 @@
 # Weather App JS
 
-This project is pong game buit with Phaser and JavaScript. Click to change the bar color to match the ball color, if the ball touches the bar with a different color, you lose. As you advance in the game it becomes more difficult and the ball moves faster, if you click and drag the mouse the bars goes back to its initial positions giving you better chances to continue.
+This project is a pong game built with Phaser and JavaScript. Click to change the bar color to match the ball color, if the ball touches the bar with a different color, you lose. As you advance in the game it becomes more difficult and the ball moves faster if you click and drag the mouse the bars go back to their initial positions giving you better chances to continue.
 
 ![Screenshot](images/pongscshot.png)
 
