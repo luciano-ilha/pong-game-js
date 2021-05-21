@@ -1,4 +1,4 @@
-# Weather App JS
+# Cheech & Pong Game
 
 This project is a pong game built with Phaser and JavaScript. Click to change the bar color to match the ball color--but if the ball touches a bar with a different color, you lose. As you advance the game becomes more difficult and the ball moves faster, but users can click and drag the bars to their initial positions, giving you a better chance at success.
 
