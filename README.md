@@ -7,7 +7,7 @@ This project is a pong game built with Phaser and JavaScript. Click to change th
 
 # Live Demo #
 
-[Live Demo Link](https://vigilant-tereshkova-637218.netlify.app/)
+[Live Demo Link](https://beesmart-pong.netlify.app/)
 
 
 ## Built With
